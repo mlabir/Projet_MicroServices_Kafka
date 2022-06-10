@@ -76,7 +76,7 @@ vous pouvez consulter la partie initialistion dans cette repository https://gith
 ### b) Simulateur kafka-Producer :
 
 
-ona creer un micro-service Spring Boot qui permet de simuler un producer-kafka et envoyer chaque seconde un message à un tompic *FACTURATION* 
+ona creer un micro-service Spring Boot qui permet de simuler un producer-kafka et envoyer chaque seconde un message à un topic *FACTURATION* 
 
 
 ### c) Base de données FACTURATION :

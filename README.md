@@ -28,7 +28,7 @@ ce service permet de gérer les clients, d'abord on doit definir les attributs d
 ce service permet de gérer le produits
 
 
-![image](https://user-images.githubusercontent.com/102171913/173146470-bd673742-78ea-4c73-9df9-904ca917dded.png)
+![image](https://user-images.githubusercontent.com/102171913/173183831-178d0576-06e4-400e-9c5b-cb2c8f7a6cf1.png)
 
 
 ### 3eme  Micro_Service: Gateway service

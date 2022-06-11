@@ -62,7 +62,8 @@ sur le client et le produits consomé
 ![image](https://user-images.githubusercontent.com/102171913/173152330-28c27906-09a4-4eee-adce-05f15870aa9c.png)
 
 
-![image](https://user-images.githubusercontent.com/102171913/173152354-ff0d5b57-a9d0-43d0-9e53-f377e858c05c.png)
+![image](https://user-images.githubusercontent.com/102171913/173182589-4d92e8c3-2726-473f-8f78-bd996bed0443.png)
+
 
 
 ## Partie2 : (Kafka)

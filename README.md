@@ -56,10 +56,15 @@ Service qui permet de gerer les factures, ce service et communiquer avec les aut
 sur le client et le produits consomé
 
 
-![image](https://user-images.githubusercontent.com/102171913/173152321-f07875d9-3f4e-4617-bc62-8775fa45f514.png)
+![image](https://user-images.githubusercontent.com/102171913/175167547-52da51f8-f07d-400d-83d3-f5cf590ed24b.png)
+
+#### *instances curretly registered with Eureka* 
 
 
 ![image](https://user-images.githubusercontent.com/102171913/173152330-28c27906-09a4-4eee-adce-05f15870aa9c.png)
+
+
+#### Bili,g service a travers gateway
 
 
 ![image](https://user-images.githubusercontent.com/102171913/173182589-4d92e8c3-2726-473f-8f78-bd996bed0443.png)
@@ -88,6 +93,9 @@ ona creer un micro-service Spring Boot qui permet de simuler un producer-kafka e
 
 
 ![image](https://user-images.githubusercontent.com/102171913/173154150-47b1ae8d-00ef-4085-b73c-e1c57ad330e7.png)
+
+
+#### Kafka-consumer
 
 
 ![image](https://user-images.githubusercontent.com/102171913/173153774-d97a6b83-6f90-4c48-96cc-807b089757cd.png)

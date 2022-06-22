@@ -5,7 +5,7 @@
 Création d'un système  distribué basé sur les micros services permet de gérer les factures des clients en y intégrant un bus de messagerie avec KAFKA et un Service de Stream processing avec Kafka Streams selon le shema suivant:
 
 
-![image](https://user-images.githubusercontent.com/102171913/175132388-8faeed6a-6af9-43b4-b3d5-141bdcb8e99c.png)
+![image](https://user-images.githubusercontent.com/102171913/175132649-0c7bfd9f-5e69-489c-b724-89fd989cf756.png)
 
 
 ## Partie1 : (Les micros services)

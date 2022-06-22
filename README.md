@@ -2,10 +2,10 @@
 
 ## L'objectif
 
-Création d'un système  distribué basé sur les micros services permet de gérer les factures des clients en y intégrant un bus de messagerie avec KAFKA et un Service de Stream processing avec Kafka Streams
+Création d'un système  distribué basé sur les micros services permet de gérer les factures des clients en y intégrant un bus de messagerie avec KAFKA et un Service de Stream processing avec Kafka Streams selon le shema suivant:
 
 
-![image](https://user-images.githubusercontent.com/102171913/173181534-16d42f94-f0d6-476a-9d44-83377bb22e02.png)
+![image](https://user-images.githubusercontent.com/102171913/175132388-8faeed6a-6af9-43b4-b3d5-141bdcb8e99c.png)
 
 
 ## Partie1 : (Les micros services)
